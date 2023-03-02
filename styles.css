@@ -15,6 +15,15 @@ body {
   border-bottom: 1px solid #e3e3e3;
 }
 
+.s-News {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+}
+.s-News__image {
+  border-radius: 10px;
+}
+
 main {
   padding: 1rem;
 }
